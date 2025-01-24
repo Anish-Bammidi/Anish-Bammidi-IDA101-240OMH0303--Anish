@@ -79,5 +79,4 @@ This script interacts with Google Generative AI to provide personalized outfit s
   ```
 - Verify that your API key is valid and has sufficient permissions.
 
-## License
-This script is distributed under the MIT License.
+
